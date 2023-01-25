@@ -1,3 +1,5 @@
+import FormData = require('form-data');
+
 function isUndefined(value) {
   return value === undefined;
 }
